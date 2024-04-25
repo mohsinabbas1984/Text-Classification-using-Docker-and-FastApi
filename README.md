@@ -1,2 +1,14 @@
-# Text-Classification-using-Docker-and-FastApi
-This repository hosts a RESTful API built with FastAPI, which employs a pre-trained Hugging Face Transformer model for text classification, specifically for sentiment analysis. The API is containerized using Docker.
+---
+title: JupyterLab
+emoji: 👀
+colorFrom: gray
+colorTo: green
+sdk: docker
+pinned: false
+tags:
+- jupyterlab
+suggested_storage: small
+license: apache-2.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
